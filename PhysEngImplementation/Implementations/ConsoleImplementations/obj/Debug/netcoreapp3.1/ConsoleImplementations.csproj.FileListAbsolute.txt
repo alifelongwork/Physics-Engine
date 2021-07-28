@@ -1,0 +1,16 @@
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\bin\Debug\netcoreapp3.1\ConsoleImplementations.exe
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\bin\Debug\netcoreapp3.1\ConsoleImplementations.deps.json
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\bin\Debug\netcoreapp3.1\ConsoleImplementations.runtimeconfig.json
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\bin\Debug\netcoreapp3.1\ConsoleImplementations.runtimeconfig.dev.json
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\bin\Debug\netcoreapp3.1\ConsoleImplementations.dll
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\bin\Debug\netcoreapp3.1\ConsoleImplementations.pdb
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\bin\Debug\netcoreapp3.1\VectorLibrary.dll
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\bin\Debug\netcoreapp3.1\VectorLibrary.pdb
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\obj\Debug\netcoreapp3.1\ConsoleImplementations.csprojAssemblyReference.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\obj\Debug\netcoreapp3.1\ConsoleImplementations.AssemblyInfoInputs.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\obj\Debug\netcoreapp3.1\ConsoleImplementations.AssemblyInfo.cs
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\obj\Debug\netcoreapp3.1\ConsoleImplementations.csproj.CoreCompileInputs.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\obj\Debug\netcoreapp3.1\ConsoleImplementations.csproj.CopyComplete
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\obj\Debug\netcoreapp3.1\ConsoleImplementations.dll
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\obj\Debug\netcoreapp3.1\ConsoleImplementations.pdb
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ConsoleImplementations\obj\Debug\netcoreapp3.1\ConsoleImplementations.genruntimeconfig.cache

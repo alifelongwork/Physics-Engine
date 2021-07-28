@@ -1,0 +1,6 @@
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\VectorLibrary\bin\Debug\VectorLibrary.dll
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\VectorLibrary\bin\Debug\VectorLibrary.pdb
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\VectorLibrary\obj\Debug\ImplementationsLibrary.csprojAssemblyReference.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\VectorLibrary\obj\Debug\ImplementationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\VectorLibrary\obj\Debug\VectorLibrary.dll
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\VectorLibrary\obj\Debug\VectorLibrary.pdb

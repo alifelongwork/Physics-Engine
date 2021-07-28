@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9dn9DHYjDWUXb3qDvey9UsGpxQcc5K/AfIpvV5rdEOcGikqehcspN5E3bZ2pZ7YS8qnDd+Z6FD19ZkiZpBnWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Austin Long\\Documents\\GitHub\\Physics-Engine-Workshop\\PhysEngImplementation\\Implementations\\ConsoleImplementations\\ConsoleImplementations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Austin Long\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

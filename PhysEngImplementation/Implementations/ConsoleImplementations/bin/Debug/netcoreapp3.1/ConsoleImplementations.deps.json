@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleImplementations/1.0.0": {
+        "dependencies": {
+          "ImplementationsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleImplementations.dll": {}
+        }
+      },
+      "ImplementationsLibrary/1.0.0": {
+        "runtime": {
+          "VectorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleImplementations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ImplementationsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

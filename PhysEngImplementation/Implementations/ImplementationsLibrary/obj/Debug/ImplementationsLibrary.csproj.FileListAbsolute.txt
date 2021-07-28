@@ -1,0 +1,6 @@
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ImplementationsLibrary\bin\Debug\ImplementationsLibrary.dll
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ImplementationsLibrary\bin\Debug\ImplementationsLibrary.pdb
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ImplementationsLibrary\obj\Debug\ImplementationsLibrary.csprojAssemblyReference.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ImplementationsLibrary\obj\Debug\ImplementationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ImplementationsLibrary\obj\Debug\ImplementationsLibrary.dll
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\ImplementationsLibrary\obj\Debug\ImplementationsLibrary.pdb

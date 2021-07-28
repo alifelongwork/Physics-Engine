@@ -1,0 +1,9 @@
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsLibrary\bin\Debug\netstandard2.0\PhysicsLibrary.deps.json
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsLibrary\bin\Debug\netstandard2.0\PhysicsLibrary.dll
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsLibrary\bin\Debug\netstandard2.0\PhysicsLibrary.pdb
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsLibrary\obj\Debug\netstandard2.0\PhysicsLibrary.csprojAssemblyReference.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsLibrary\obj\Debug\netstandard2.0\PhysicsLibrary.AssemblyInfoInputs.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsLibrary\obj\Debug\netstandard2.0\PhysicsLibrary.AssemblyInfo.cs
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsLibrary\obj\Debug\netstandard2.0\PhysicsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsLibrary\obj\Debug\netstandard2.0\PhysicsLibrary.dll
+C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsLibrary\obj\Debug\netstandard2.0\PhysicsLibrary.pdb

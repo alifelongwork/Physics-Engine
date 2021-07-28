@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllUnitTests", "VectorMatrixTests\AllUnitTests.csproj", "{DE764D56-7D60-4DDA-B28A-299E7FE34D6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleImplementations", "ConsoleImplementations\ConsoleImplementations.csproj", "{619C73A3-C150-45FF-92C1-70BE03F61C75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsImplementation", "WinformsImplementation\WinformsImplementation.csproj", "{9FCCB6DF-3629-4DFD-8AD6-C7310145AC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicsImplementations", "PhysicsImplementations\PhysicsImplementations.csproj", "{17D52366-FF43-4A3F-B1DC-131BD89D2C75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhysicsLibrary", "PhysicsLibrary\PhysicsLibrary.csproj", "{ABE3C9A7-1E72-4B15-9950-ADF8577031FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementationsLibrary", "ImplementationsLibrary\ImplementationsLibrary.csproj", "{E8A3C394-7D4B-4367-9072-7DECEF7BEE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE764D56-7D60-4DDA-B28A-299E7FE34D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE764D56-7D60-4DDA-B28A-299E7FE34D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE764D56-7D60-4DDA-B28A-299E7FE34D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE764D56-7D60-4DDA-B28A-299E7FE34D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619C73A3-C150-45FF-92C1-70BE03F61C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619C73A3-C150-45FF-92C1-70BE03F61C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619C73A3-C150-45FF-92C1-70BE03F61C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619C73A3-C150-45FF-92C1-70BE03F61C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCCB6DF-3629-4DFD-8AD6-C7310145AC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCCB6DF-3629-4DFD-8AD6-C7310145AC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCCB6DF-3629-4DFD-8AD6-C7310145AC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCCB6DF-3629-4DFD-8AD6-C7310145AC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D52366-FF43-4A3F-B1DC-131BD89D2C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D52366-FF43-4A3F-B1DC-131BD89D2C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D52366-FF43-4A3F-B1DC-131BD89D2C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D52366-FF43-4A3F-B1DC-131BD89D2C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE3C9A7-1E72-4B15-9950-ADF8577031FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE3C9A7-1E72-4B15-9950-ADF8577031FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE3C9A7-1E72-4B15-9950-ADF8577031FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE3C9A7-1E72-4B15-9950-ADF8577031FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A3C394-7D4B-4367-9072-7DECEF7BEE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A3C394-7D4B-4367-9072-7DECEF7BEE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A3C394-7D4B-4367-9072-7DECEF7BEE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A3C394-7D4B-4367-9072-7DECEF7BEE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {399AE215-F60F-40BA-82FE-8B53F19302F0}
+	EndGlobalSection
+EndGlobal
