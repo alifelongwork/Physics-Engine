@@ -16,8 +16,17 @@ using System.Xml;
 
 namespace ImplementationsLibrary
 {
+    /// <summary>
+    /// Polygon class for creating shapes based on vertices. Finds the center of the polygon based on the vertices.
+    /// Has functions to perform transformations, initialize hit boxes, draw the shape on the screen, perform 
+    /// concavity checks, and collision checks using the separating axis theorem. Creates optional lines for 
+    /// showing normals, intersections, whether the polygon contains a point or the mouse pointer. Functions to 
+    /// display projection of the object on to an edge or surface and the creation of triangles based on point 
+    /// location to display the concept of triangular meshing.
+    /// </summary>
     public class Polygon : ISATable, IScalarSATable
     {
+
         public Vertex[] Vertices { get; protected set; }
         public Line[] Edges { get; protected set; }
         private List<Line> projections = new List<Line>();
