@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace ImplementationsLibrary
 {
+    /// <summary>
+    /// Similar to Matrix3x3Math but uses array initialization to create matrix as opposed to separate individual
+    /// variables
+    /// </summary>
     public class Matrix3x3MathArray
     {
         public float[,] Values;

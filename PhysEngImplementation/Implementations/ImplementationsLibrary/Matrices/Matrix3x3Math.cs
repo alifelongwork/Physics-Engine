@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace ImplementationsLibrary
 {
+    /// <summary>
+    /// A 3x3 Matrix math library that creates a matrix based on individual values. Performs transformation
+    /// and algebraic functions that allow any objects created to be altered.
+    /// </summary>
     public class Matrix3x3Math
     {
         public float M11;

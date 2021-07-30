@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace ImplementationsLibrary
 {
+    /// <summary>
+    /// A 4x4 matrix library to perform algebraic operations on a user defined 4x4 matrix. Contains matrix 
+    /// initialization, transformations, determinant, and mathematical operation functions with user defined
+    /// +, -, and * symbols for ease. 
+    /// </summary>
     public struct Matrix4x4Math
     {
         public float M11;

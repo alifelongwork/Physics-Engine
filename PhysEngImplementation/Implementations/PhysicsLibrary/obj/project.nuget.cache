@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z6oQWbF37/LzZBFT+W8xkON6CldOJO0mAFiHylIh4iSFLhREU04MTw/D/voj1LQsSgHtBRsM26fXfzLhh6l7+Q==",
+  "dgSpecHash": "hSjee1peqAPFw5440wg94NJRRGUY1B0yxOZOb+LYVsXD6T7Vj/y19+lZ51myyN6FST5okdwMsRAXtBxHw3j6UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Austin Long\\Documents\\GitHub\\Physics-Engine-Workshop\\PhysEngImplementation\\Implementations\\PhysicsLibrary\\PhysicsLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Austin Long\\Documents\\GitHub\\Physics-Engine\\PhysEngImplementation\\Implementations\\PhysicsLibrary\\PhysicsLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Austin Long\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Austin Long\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
