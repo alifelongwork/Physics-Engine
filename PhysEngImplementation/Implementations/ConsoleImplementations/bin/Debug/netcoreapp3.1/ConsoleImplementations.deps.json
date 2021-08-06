@@ -16,7 +16,7 @@
       },
       "ImplementationsLibrary/1.0.0": {
         "runtime": {
-          "VectorLibrary.dll": {}
+          "ImplementationsLibrary.dll": {}
         }
       }
     }

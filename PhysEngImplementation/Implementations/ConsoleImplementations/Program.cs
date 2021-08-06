@@ -3,6 +3,14 @@ using ImplementationsLibrary;
 
 namespace ConsoleImplementations
 {
+    /// <summary>
+    /// Console program to demonstrate how to print out matrices. 
+    /// Prints:
+    ///     - Identity Matrix
+    ///     - Identity Matrix with translation of x and y 
+    ///     - Previously translated matrix rotated by pi/2
+    ///         *Currently prints -0 in some indices due to rounding
+    /// </summary>
     class Program
     {
         static Matrix3x3MathArray matrix = Matrix3x3MathArray.CreateTranslation(0, 0);
