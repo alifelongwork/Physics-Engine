@@ -29,3 +29,34 @@ C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementat
 C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.csproj.CopyComplete
 C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.exe
 C:\Users\Austin Long\Documents\GitHub\Physics-Engine-Workshop\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.pdb
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\PhysicsImplementations.exe.config
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\PhysicsImplementations.exe
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\PhysicsImplementations.pdb
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\MonoGame.Forms.DX.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\MonoGame.Framework.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\PhysicsLibrary.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.XInput.dll
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\PhysicsLibrary.pdb
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\MonoGame.Forms.DX.xml
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\MonoGame.Framework.xml
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.xml
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\bin\Debug\SharpDX.XInput.xml
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.csproj.AssemblyReference.cache
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.Form1.resources
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.Properties.Resources.resources
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.csproj.GenerateResource.cache
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.csproj.CopyComplete
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.exe
+C:\Users\Austin\Documents\GitHub\Physics-Engine\PhysEngImplementation\Implementations\PhysicsImplementations\obj\Debug\PhysicsImplementations.pdb
